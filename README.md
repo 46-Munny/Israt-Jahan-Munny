@@ -22,7 +22,7 @@
 
 - 🔭 I’m interested on web-development, programming and machine learning.
 
-- 💬 Ask me about Sql, Java, Php, JavaScript, Python
+- 💬 Ask me about Sql, Java, Php, JavaScript, Python, C,C++
 
 
 
